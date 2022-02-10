@@ -10,3 +10,6 @@ Tecnologias utilizadas:
 - Postman
 - PgAdmin (Postgres)
 - IDE (IntelliJ, STS, Eclipse, etc).
+
+video aula da professora 
+Michelli Brito, https://www.michellibrito.com/
